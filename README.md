@@ -1,2 +1,3 @@
 # portfolio-samples
 Some samples for your portfolio.....
+ this is just a sample and you can copy it to make a portfolio for yourself by customizing it.
